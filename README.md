@@ -23,6 +23,12 @@
 3. Applied hover and button effects to enhance UI.
 4. Ensured all elements like navigation, banner, cards, and CTA are aligned well.
 5. Recorded a demo video showcasing the design.
+
+## Features
+1. a clean and proffesional Landing page
+2. grid based images and layout
+3. Animated Buttons and hoveriing effect
+   
 ## Outcome
 
 A fully functional landing page that includes:
