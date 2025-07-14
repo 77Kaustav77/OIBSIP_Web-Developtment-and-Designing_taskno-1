@@ -34,6 +34,5 @@ A fully functional landing page that includes:
 
 ## Demo
 
-Insert gif or link to demo
 
 [Click to Watch on LinkedIn](https://www.linkedin.com/posts/kaustav-pal-397297279_level1-task-1-landing-page-completed-activity-7350593818703908864-vKDt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPZ8mMBIOJb6KttwWAPHe1tLuPohtEhq8Q)
